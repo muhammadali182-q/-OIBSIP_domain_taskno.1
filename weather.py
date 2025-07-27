@@ -2,7 +2,7 @@ import tkinter as tk
 import requests
 from tkinter import messagebox
 
-API_KEY = '1b927d523b628a7ef8f3a09777127cfe'  # <-- Replace with your API key
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxx'  # <-- Replace with your API key
 
 def get_weather():
     city = city_entry.get()
